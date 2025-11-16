@@ -1,0 +1,21 @@
+Group,Region,Route_Type,Time_Period,Total_Passengers,Concorde_Users,First_Users,Club_Users
+Europe - Short-Haul - Morning,Europe,Short-Haul,Morning,277650,6941,27765,69412
+North America - Long-Haul - Morning,North America,Long-Haul,Morning,241500,17364,52067,104135
+Europe - Short-Haul - Afternoon,Europe,Short-Haul,Afternoon,233700,4674,18696,46740
+Europe - Short-Haul - Evening,Europe,Short-Haul,Evening,191100,4586,18346,45864
+North America - Long-Haul - Afternoon,North America,Long-Haul,Afternoon,189500,10896,32689,65378
+North America - Long-Haul - Evening,North America,Long-Haul,Evening,150750,10402,31205,62410
+Europe - Short-Haul - Night,Europe,Short-Haul,Night,96300,1830,7319,18297
+North America - Long-Haul - Night,North America,Long-Haul,Night,82750,4518,13563,27117
+Asia - Ultra Long-Haul - Morning,Asia,Ultra Long-Haul,Morning,68880,7577,18942,33152
+Middle East - Long-Haul - Morning,Middle East,Long-Haul,Morning,62250,4084,12257,24514
+Asia - Ultra Long-Haul - Afternoon,Asia,Ultra Long-Haul,Afternoon,57120,5027,12566,21991
+Middle East - Long-Haul - Afternoon,Middle East,Long-Haul,Afternoon,48750,2559,7678,15356
+Middle East - Long-Haul - Evening,Middle East,Long-Haul,Evening,43500,2740,8221,16443
+Asia - Ultra Long-Haul - Evening,Asia,Ultra Long-Haul,Evening,40040,4228,10571,18498
+Other - Other - Morning,Other,Other,Morning,39240,1472,4905,10791
+Other - Other - Afternoon,Other,Other,Afternoon,35100,1053,3510,7722
+Other - Other - Evening,Other,Other,Evening,30240,1089,3629,7983
+Asia - Ultra Long-Haul - Night,Asia,Ultra Long-Haul,Night,24080,2013,5033,8806
+Middle East - Long-Haul - Night,Middle East,Long-Haul,Night,17500,873,2618,5236
+Other - Other - Night,Other,Other,Night,12420,354,1180,2596
